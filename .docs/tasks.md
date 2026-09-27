@@ -17,4 +17,4 @@
 - [x] Aplicar layout responsivo para desktop e dispositivos móveis.
 - [x] Validar interação e aparência no navegador.
 - [x] Documentar escopo, estrutura e uso no README.
-- [ ] Criar repositório remoto e publicar a branch inicial.
+- [x] Criar repositório remoto (`js-cheat-sheet-all-languages`) e publicar as branches `main` e `dev`.
